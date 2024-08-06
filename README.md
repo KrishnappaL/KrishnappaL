@@ -10,7 +10,7 @@ Ethickal Hacking
 ```
 Hobbies
 ```
-I interested to contribute opensource projects and attending technical seminars,Like to learn new things,Sharing knowledge and helping others.
+I interested to contribute opensource projects and attending technical seminars,Like to learn new technologys,Sharing knowledge and helping others.
 ```
 <!--
 **KrishnappaL/KrishnappaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
