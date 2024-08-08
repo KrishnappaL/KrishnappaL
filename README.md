@@ -12,6 +12,13 @@ Hobbies
 ```
 I interested to contribute opensource projects and attending technical seminars,Like to learn new technologys,Sharing knowledge and helping others.
 ```
+📫 How to reach me:
+```
+https://leetcode.com/u/laks-hmi/
+https://lakshmi195.wordpress.com/
+lakshmihk2003@gmail.com
+```
+
 <!--
 **KrishnappaL/KrishnappaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
