@@ -4,7 +4,7 @@ Hi,I'am Lakshmi
 👋 Welcome to my GitHub profile! I am a passionate software developer with a keen interest in Java and web design. Here, you'll find a collection of my projects, solutions to coding problems, and other work that showcases my skills and experiences. About Me
 Skills
 ```
-FullStack Developer
+FullStack Development
 Java
 Ethickal Hacking
 ```
@@ -14,7 +14,6 @@ I interested to contribute opensource projects and attending technical seminars,
 ```
 📫 How to reach me:
 ```
-https://leetcode.com/u/laks-hmi/
 https://lakshmi195.wordpress.com/
 lakshmihk2003@gmail.com
 ```
