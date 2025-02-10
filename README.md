@@ -5,8 +5,9 @@ Hi,I'am Lakshmi
 Skills
 ```
 FullStack Development
-Java
-Ethickal Hacking
+Java/Python/C#/C++/C
+SQL/PostgreSQL/MySQL
+HTML/JAVASCRIPT/CSS/REACTJS
 ```
 Hobbies
 ```
