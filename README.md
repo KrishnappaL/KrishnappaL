@@ -5,18 +5,17 @@ Hi,I'am Lakshmi
 Skills
 ```
 FullStack Development
-Java/Python/C#/C++/C
+Java/Python/C#/C
 SQL/PostgreSQL/MySQL
 HTML/JAVASCRIPT/CSS/REACTJS
 ```
 Hobbies
 ```
-I interested to contribute opensource projects and attending technical seminars,Like to learn new technologys,Sharing knowledge and helping others.
+ Contributed in opensource projects ,Attending technical seminars,Like to learn new technologys,Sharing knowledge,Attending to hackathons.
 ```
 📫 How to reach me:
 ```
 https://lakshmi195.wordpress.com/
-lakshmihk2003@gmail.com
 ```
 
 <!--
